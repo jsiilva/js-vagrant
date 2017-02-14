@@ -48,7 +48,7 @@ If you have issues with Windows and `vbguest` additions, use the following versi
 First you need a [Git enabled terminal](#software-suggestions). Then you should **clone this repository** locally.
 
 ```sh
-$ git clone https://github.com/jsiilva/JS-Vagrant.git
+$ git clone https://github.com/jsiilva/js-vagrant.git
 ```
 
 For newer versions of Vagrant and VirtualBox you may need **guest additions**, so install the plugin:
