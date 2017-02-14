@@ -1,23 +1,7 @@
-ThreeSoft Vagrant File
+JrSilva - ThreeSoft Vagrant File
 ===================
 
 [Vagrant][1] provides a simple, elegant way to manage and provision Virtual Machines and this is a *recommended* Vagrant setup to get loaded with core development tools to build a powerful PHP application.
-
-## Index
-
-- [Overview](#overview)
-- [Packages Included](#packages-included)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Vagrant Credentials](#vagrant-credentials)
-- [Create a Phalcon Project](#create-a-phalcon-project)
-- [Create a VHost Record](#create-a-vhost-record)
-- [Local Editing](#local-editing)
-- [Using SSH](#using-ssh)
-- [Troubleshooting Vagrant Ubuntu](#troubleshooting-vagrant-ubuntu)
-- [Troubleshooting Phalcon](#troubleshooting-phalcon)
-- [Software Suggestions](#software-suggestions)
-
 
 ## Overview
 
